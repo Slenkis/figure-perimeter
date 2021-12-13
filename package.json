@@ -1,0 +1,19 @@
+{
+  "name": "@slenkis/figure-perimeter",
+  "version": "1.0.0",
+  "description": "perimeter = (shape) =>{   sum = 0",
+  "main": "perimeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "slenkis",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slenkis/figure-perimeter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Slenkis/figure-perimeter/issues"
+  },
+  "homepage": "https://github.com/Slenkis/figure-perimeter#readme"
+}
